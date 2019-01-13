@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            Luke Withell
-tagline:          'Software Engineer from National's Capital.'
-description:      'A blog containig my ~thoughts~ ramblings.'
+tagline:          ''
+description:      ''
 url:              https://lwithall.github.io
 baseurl:          /
 
