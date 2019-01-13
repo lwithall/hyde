@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Luke Withell
 tagline:          ''
-description:      ''
+description:      'Software Engineer from National's Capital.'
 url:              https://lwithall.github.io
 baseurl:          /
 
